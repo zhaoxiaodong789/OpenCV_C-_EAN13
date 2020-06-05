@@ -1,0 +1,7 @@
+﻿  decode.cpp
+c:\users\xiaodong\desktop\123\qrcode测试2 - 副本\qrcode\decode.cpp(62): warning C4244: “=”: 从“_Tp”转换到“int”，可能丢失数据
+          with
+          [
+              _Tp=double
+          ]
+  QRcode.vcxproj -> C:\Users\xiaodong\Desktop\123\QRcode测试2 - 副本\x64\Debug\QRcode.exe
